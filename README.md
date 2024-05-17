@@ -1,5 +1,6 @@
 # Weather_forcasting
-Welcome to our project of machine learning in forcasting weather with time-series data
+Welcome to our project of machine learning in forcasting weather with time-series data.
+
 Our team consists of 5 members:
 
     1. Nguyen Viet Quang
